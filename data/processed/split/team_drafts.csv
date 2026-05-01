@@ -1,0 +1,467 @@
+gameid,teamid,teamname,side,firstPick,ban1,ban2,ban3,ban4,ban5,pick1,pick2,pick3,pick4,pick5
+LOLTMNT03_337058,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Blue,1,Neeko,Vi,Sylas,Rakan,Aphelios,Malphite,Yunara,Taliyah,Alistar,K'Sante
+LOLTMNT03_337058,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Red,0,Jayce,Azir,Orianna,Ambessa,Nautilus,Rumble,Wukong,Ahri,Corki,Pantheon
+LOLTMNT03_337069,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Blue,1,Neeko,Vi,Cassiopeia,Renata Glasc,Lulu,Ryze,Lucian,Braum,Renekton,Sylas
+LOLTMNT03_337069,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Red,0,Jayce,Azir,Orianna,Jarvan IV,Nocturne,Ashe,Dr. Mundo,Viktor,Soraka,Sion
+13060-13060_game_1,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Blue,1,Ambessa,Malphite,Akali,Syndra,LeBlanc,Rumble,Pantheon,Taliyah,Yunara,Alistar
+13060-13060_game_1,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,0,Jayce,Neeko,Orianna,Jhin,Sivir,Varus,Wukong,K'Sante,Ahri,Nautilus
+LOLTMNT03_337081,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Blue,1,Poppy,Jayce,Azir,Akali,Mel,Ambessa,Nocturne,Ziggs,Aurora,Rell
+LOLTMNT03_337081,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Red,0,Vi,Neeko,Orianna,Nautilus,Leona,Aphelios,Jarvan IV,Thresh,Rek'Sai,Zoe
+13060-13060_game_2,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Blue,1,Poppy,Sylas,Akali,Miss Fortune,Leona,Malphite,Gnar,Syndra,Kai'Sa,Rakan
+13060-13060_game_2,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,0,Jayce,Neeko,Orianna,Aphelios,Sivir,Renekton,Dr. Mundo,Ryze,Rell,Senna
+13060-13060_game_3,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Blue,1,Poppy,Vi,Aphelios,Galio,Viktor,Ambessa,Sivir,Leona,Gragas,Aurora
+13060-13060_game_3,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,0,Jayce,Orianna,LeBlanc,Kennen,Akali,Neeko,Xin Zhao,Zeri,Jax,Cassiopeia
+LOLTMNT03_337109,oe:team:ef69efa6acebe94107f0cf1ba716806,Dplus Kia,Blue,1,Qiyana,Malphite,Rumble,Bard,Lucian,Neeko,Xin Zhao,Taliyah,Yunara,Rek'Sai
+LOLTMNT03_337109,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Red,0,Azir,Jayce,Orianna,Renekton,Kai'Sa,Jarvan IV,Ryze,Ambessa,Karma,Ezreal
+LOLTMNT03_336084,oe:team:ef69efa6acebe94107f0cf1ba716806,Dplus Kia,Blue,1,Qiyana,Malphite,Akali,Lucian,Kalista,Orianna,Nocturne,K'Sante,Jhin,Elise
+LOLTMNT03_336084,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Red,0,Azir,Jayce,Vi,Rakan,Nautilus,Rumble,Pantheon,LeBlanc,Bard,Sivir
+13061-13061_game_1,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,1,Poppy,Ryze,Qiyana,Kai'Sa,Zaahen,Ambessa,Azir,K'Sante,Rell,Jhin
+13061-13061_game_1,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,0,Rumble,Jayce,Akali,Bard,Alistar,Orianna,Neeko,Malphite,Yunara,Renekton
+13061-13061_game_2,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,1,Akali,Sivir,Poppy,Taliyah,Ahri,Rumble,Jarvan IV,Miss Fortune,Alistar,Aurora
+13061-13061_game_2,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,0,Jayce,Wukong,Ryze,Nautilus,Bard,Vi,Varus,Yorick,Leona,Sylas
+13062-13062_game_1,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Blue,1,Poppy,Neeko,Sylas,Miss Fortune,Sivir,Rumble,Varus,Ambessa,Rell,Ahri
+13062-13062_game_1,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,0,Jayce,Orianna,Malphite,Taliyah,Alistar,Qiyana,K'Sante,Ryze,Yunara,Braum
+LOLTMNT03_336244,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Blue,1,Neeko,Malphite,Varus,Lulu,Bard,Azir,Pantheon,Corki,Renekton,Nami
+LOLTMNT03_336244,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Red,0,Rumble,Jayce,Poppy,K'Sante,Sion,Yunara,Xin Zhao,Orianna,Alistar,Kennen
+13062-13062_game_2,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Blue,1,Poppy,Neeko,Sylas,Renata Glasc,Corki,Malphite,Renekton,Miss Fortune,Syndra,Alistar
+13062-13062_game_2,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,0,Jayce,Orianna,Azir,Akali,LeBlanc,Jax,Dr. Mundo,Taliyah,Sivir,Lulu
+LOLTMNT03_336246,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Blue,1,Neeko,Sylas,Vi,Varus,Sivir,Ryze,Ambessa,Wukong,Ezreal,Leona
+LOLTMNT03_336246,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Red,0,Rumble,Jayce,Malphite,Nautilus,Rakan,Cassiopeia,Jarvan IV,Bard,Sion,Jhin
+13063-13063_game_1,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,1,Poppy,Malphite,Neeko,Nautilus,Sion,Orianna,Sivir,Alistar,Renekton,Ambessa
+13063-13063_game_1,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,0,Rumble,Jayce,Wukong,Pantheon,Xin Zhao,Varus,Jarvan IV,Azir,Bard,Rek'Sai
+LOLTMNT03_337298,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Blue,1,Vi,Azir,Sylas,Ambessa,Dr. Mundo,Malphite,Aphelios,Taliyah,Sion,Karma
+LOLTMNT03_337298,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Red,0,Rumble,Orianna,Jayce,Alistar,Neeko,Yunara,Nautilus,Ahri,Lulu,Rek'Sai
+13063-13063_game_2,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,1,Jayce,Rumble,Malphite,Vi,Wukong,Yunara,Pantheon,Lulu,Zaahen,Anivia
+13063-13063_game_2,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,0,Neeko,Qiyana,Sylas,Ahri,LeBlanc,Sion,Aphelios,Thresh,Ryze,Xin Zhao
+LOLTMNT03_337304,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Blue,1,Vi,Azir,Ambessa,LeBlanc,Gnar,Orianna,Varus,Alistar,Renekton,Wukong
+LOLTMNT03_337304,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Red,0,Rumble,Jayce,Jarvan IV,Nocturne,Xin Zhao,Neeko,Pantheon,Ezreal,Sylas,Kennen
+13064-13064_game_1,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,1,Malphite,Poppy,Karma,Renekton,Syndra,Neeko,Yunara,Ambessa,LeBlanc,Jarvan IV
+13064-13064_game_1,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,0,Jayce,Rumble,Orianna,Akali,Taliyah,Varus,Wukong,Nautilus,Azir,Zaahen
+13064-13064_game_2,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Blue,1,Ryze,Akali,Sylas,Sivir,Ezreal,Malphite,Gnar,Syndra,Aphelios,Thresh
+13064-13064_game_2,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Red,0,Jayce,Orianna,Rumble,Lucian,Kai'Sa,Aurora,Renekton,Dr. Mundo,Corki,Blitzcrank
+13064-13064_game_3,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,1,Poppy,Lucian,Akali,Xayah,Sivir,Vi,Cassiopeia,Rek'Sai,Ezreal,Braum
+13064-13064_game_3,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,0,Jayce,Rumble,Orianna,Kai'Sa,Rakan,Xin Zhao,Sion,Taliyah,Alistar,Miss Fortune
+LOLTMNT03_336495,oe:team:ef69efa6acebe94107f0cf1ba716806,Dplus Kia,Blue,0,Azir,Orianna,Neeko,Varus,Jhin,K'Sante,Ryze,Yunara,Ambessa,Lulu
+LOLTMNT03_336495,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Red,1,Qiyana,Jayce,Cassiopeia,Jarvan IV,Nautilus,Rumble,Wukong,Taliyah,Corki,Nami
+LOLTMNT03_336502,oe:team:ef69efa6acebe94107f0cf1ba716806,Dplus Kia,Blue,0,Orianna,Azir,Akali,Ezreal,Sivir,Varus,Xin Zhao,Gwen,Ekko,Rakan
+LOLTMNT03_336502,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Red,1,Qiyana,Jayce,LeBlanc,Bard,Neeko,Jarvan IV,Sion,Syndra,Ashe,Braum
+13106-13106_game_1,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Blue,0,Jayce,Rumble,Ziggs,Ezreal,Leona,Akali,Aphelios,Malphite,K'Sante,Alistar
+13106-13106_game_1,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Red,1,Varus,Neeko,Ambessa,Thresh,Gnar,Orianna,Renekton,Jarvan IV,Yunara,Lulu
+13106-13106_game_2,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,0,Jayce,Rumble,Qiyana,Taliyah,LeBlanc,Varus,Xin Zhao,Renata Glasc,Azir,Rek'Sai
+13106-13106_game_2,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Red,1,Neeko,Ambessa,Sivir,Zaahen,Syndra,Wukong,Miss Fortune,Leona,Viktor,Sion
+LOLTMNT03_337590,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Blue,0,Jayce,Azir,Varus,Rell,Nautilus,Ryze,Pantheon,Ambessa,Lucian,Milio
+LOLTMNT03_337590,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Red,1,Malphite,Orianna,Yunara,Bard,Aphelios,Rumble,Vi,Taliyah,Corki,Alistar
+LOLTMNT03_336511,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Blue,1,Malphite,Orianna,Yunara,Galio,Sion,Aurora,Wukong,Rakan,Gnar,Ziggs
+LOLTMNT03_336511,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Red,0,Jayce,Azir,Varus,Yone,Gwen,Aphelios,Xin Zhao,Lulu,K'Sante,Sylas
+13066-13066_game_1,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Blue,0,Jayce,Malphite,Rumble,Zaahen,Alistar,Orianna,Ambessa,Yunara,K'Sante,Poppy
+13066-13066_game_1,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Red,1,Neeko,Aphelios,Wukong,Lulu,Rell,Varus,Jarvan IV,Akali,Renekton,Rakan
+LOLTMNT03_337603,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Blue,0,Jayce,Varus,Rell,Renata Glasc,Ashe,Bard,Orianna,Nocturne,Sivir,Akali
+LOLTMNT03_337603,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Red,1,Malphite,Poppy,Yunara,Ezreal,Gwen,Azir,Jarvan IV,Rek'Sai,Nautilus,Jhin
+13066-13066_game_2,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Blue,0,Jayce,Aphelios,Wukong,Kai'Sa,Alistar,Azir,Dr. Mundo,Yorick,Sivir,Lulu
+13066-13066_game_2,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Red,1,Sylas,Rumble,Neeko,Braum,Karma,Malphite,Gnar,Taliyah,Rell,Jinx
+LOLTMNT03_336667,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Blue,1,Neeko,Malphite,Gwen,Poppy,Yunara,Azir,Pantheon,Renekton,Xayah,Rakan
+LOLTMNT03_336667,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Red,0,Jayce,Rumble,Sion,Bard,Lucian,Taliyah,Vi,Gnar,Ezreal,Leona
+LOLTMNT03_337754,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Blue,0,Rumble,Orianna,Jayce,Corki,Aphelios,Yunara,Lulu,Xin Zhao,Galio,Aatrox
+LOLTMNT03_337754,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Red,1,Neeko,Jarvan IV,Malphite,Cassiopeia,Syndra,Ryze,Ambessa,Nautilus,Varus,Trundle
+13067-13067_game_1,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,0,Karma,Akali,Ambessa,Sivir,Yunara,Orianna,Varus,Jayce,Rek'Sai,Bard
+13067-13067_game_1,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Red,1,Neeko,Jarvan IV,Sylas,Rumble,Sion,Malphite,Azir,Renekton,Jhin,Alistar
+LOLTMNT03_337756,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Blue,0,Jayce,Rumble,Neeko,Kalista,Aphelios,Sion,Lucian,Braum,Syndra,Poppy
+LOLTMNT03_337756,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Red,1,Malphite,Jarvan IV,Gwen,Akali,LeBlanc,Orianna,Rek'Sai,Wukong,Kai'Sa,Alistar
+13067-13067_game_2,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,0,Karma,Vi,Ryze,Wukong,Pantheon,Aphelios,Xin Zhao,Lulu,Aurora,Akali
+13067-13067_game_2,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Red,1,Jarvan IV,Ambessa,Cassiopeia,K'Sante,Sion,Neeko,Rumble,Miss Fortune,Nocturne,Syndra
+LOLTMNT03_336695,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Blue,0,Jayce,Azir,Ambessa,Bard,Poppy,Taliyah,Vi,K'Sante,Alistar,Ezreal
+LOLTMNT03_336695,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Red,1,Neeko,Malphite,Orianna,Sivir,Ziggs,Rumble,Varus,Yone,Rakan,Xin Zhao
+13067-13067_game_3,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,1,Ambessa,Jarvan IV,Cassiopeia,Rakan,Poppy,Ryze,Qiyana,Sivir,Jax,Shen
+13067-13067_game_3,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Red,0,Yunara,Sion,Karma,Gnar,Braum,Taliyah,Pantheon,Kai'Sa,Rell,K'Sante
+LOLTMNT03_337782,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Blue,0,Azir,Orianna,Malphite,Aphelios,Corki,Yunara,Anivia,Sion,Ambessa,Rell
+LOLTMNT03_337782,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Red,1,Neeko,Jayce,Cassiopeia,Lulu,Poppy,Ryze,Renekton,Wukong,Ziggs,Nautilus
+13068-13068_game_1,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Blue,0,Rumble,Varus,Orianna,Gnar,Jax,Neeko,Dr. Mundo,Kai'Sa,Syndra,K'Sante
+13068-13068_game_1,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Red,1,Ambessa,Akali,Sylas,LeBlanc,Ahri,Malphite,Yunara,Lulu,Renekton,Azir
+13068-13068_game_2,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Blue,0,Rumble,Jayce,Varus,Jax,Alistar,Aphelios,Thresh,LeBlanc,Sion,Xin Zhao
+13068-13068_game_2,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Red,1,Akali,Ambessa,Jarvan IV,Pantheon,Wukong,Orianna,Sivir,Vi,Nautilus,Zaahen
+13068-13068_game_3,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,0,Jayce,Akali,Rumble,Rell,Pantheon,Wukong,Jhin,Ahri,Gwen,Poppy
+13068-13068_game_3,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,1,Jax,Jarvan IV,Ambessa,Rakan,Bard,Varus,Yorick,Taliyah,Alistar,Qiyana
+LOLTMNT06_164200,oe:team:78f183fa5a7d8ecb22b9ad272c3abd7,Fnatic,Blue,1,Neeko,Sion,Malphite,Nami,Bard,Yunara,Vi,Taliyah,Ambessa,Alistar
+LOLTMNT06_164200,oe:team:2d096df29ab7e32950c86e0d72fc986,Los Ratones,Red,0,Jayce,Azir,Orianna,Jax,Rumble,Corki,Jarvan IV,Ryze,Kled,Braum
+LOLTMNT06_163223,oe:team:6cd05f0ac20bfb965a59dc8bcc4f184,GiantX,Blue,1,Sylas,Qiyana,Malphite,Nautilus,Caitlyn,Orianna,Xin Zhao,Rumble,Kai'Sa,Rakan
+LOLTMNT06_163223,oe:team:a2065488a11a2c0a2403a7b347eec61,Shifters,Red,0,Nidalee,Sion,Varus,Neeko,Jhin,Azir,Wukong,K'Sante,Ezreal,Bard
+LOLTMNT06_164218,oe:team:1285e1c04d54de96502f12da4d49458,Team Heretics,Blue,1,Poppy,Pantheon,Varus,Braum,Alistar,Rumble,Wukong,Orianna,Corki,Rell
+LOLTMNT06_164218,oe:team:d2ba9f92d85cff67d60aaad88e61048,Natus Vincere,Red,0,Jayce,Ambessa,Vi,Aphelios,Neeko,K'Sante,Yunara,Azir,Qiyana,Rakan
+LOLTMNT06_164234,oe:team:75760dca486d4682426196b76bd1a54,SK Gaming,Blue,1,Malphite,Azir,Poppy,Nautilus,Renekton,Jayce,Yunara,Alistar,Ambessa,Viktor
+LOLTMNT06_164234,oe:team:e8d8ae992fe72acb7adc7bfcee31dbb,Team Vitality,Red,0,Akali,Varus,Rumble,Orianna,Ryze,Corki,Pantheon,Taliyah,Rakan,Aatrox
+LOLTMNT06_163258,oe:team:f3aa9bbd924ce3af42ac53f8326bc7c,Karmine Corp,Blue,1,Malphite,Pantheon,Ambessa,Alistar,Rell,Azir,Sion,Bard,Xin Zhao,Ezreal
+LOLTMNT06_163258,oe:team:42bf6c1040db8f2221ff017fa4d34e4,Karmine Corp Blue,Red,0,Jayce,Orianna,Rumble,Corki,Sivir,Taliyah,Varus,Vi,Aatrox,Nautilus
+LOLTMNT06_163282,oe:team:7d6673d3a9d00363c6bebc1a630da6e,G2 Esports,Blue,0,Rumble,Orianna,Sion,Braum,Nautilus,Wukong,Azir,Corki,Alistar,Gnar
+LOLTMNT06_163282,oe:team:4acc40654379b4da680be1bd3129dfa,Movistar KOI,Red,1,Kled,Malphite,Dr. Mundo,Nami,Bard,Jayce,Yunara,Taliyah,K'Sante,Lulu
+LOLTMNT03_336834,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Blue,0,Rumble,Jayce,Varus,Gwen,Miss Fortune,Aphelios,Azir,Lulu,Sion,Aatrox
+LOLTMNT03_336834,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Red,1,Ambessa,Malphite,Yunara,Xin Zhao,Jarvan IV,Pantheon,Orianna,Neeko,Corki,Zaahen
+LOLTMNT03_336842,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Blue,0,Jayce,Rumble,Yone,Rakan,Rell,Jarvan IV,Yunara,Taliyah,Nautilus,Gwen
+LOLTMNT03_336842,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Red,1,Malphite,Vi,Poppy,Alistar,Renekton,Ryze,Ambessa,Varus,Xin Zhao,Braum
+13069-13069_game_1,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,0,Jayce,Neeko,Rumble,Sion,K'Sante,Varus,Orianna,Renekton,Pantheon,Braum
+13069-13069_game_1,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,1,Malphite,Poppy,Yunara,Alistar,Renata Glasc,Ambessa,Jhin,Akali,Ornn,Rell
+13069-13069_game_2,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,1,Jarvan IV,Malphite,Zed,Yunara,Rakan,Sion,Qiyana,Ziggs,Alistar,Sivir
+13069-13069_game_2,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,0,Jayce,Neeko,Rumble,Aphelios,Bard,Trundle,Azir,Mordekaiser,Miss Fortune,Poppy
+LOLTMNT03_337890,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Blue,0,Jayce,Varus,Jarvan IV,Renekton,Rek'Sai,Nocturne,Azir,Aphelios,Zaahen,Thresh
+LOLTMNT03_337890,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Red,1,Malphite,Pantheon,Rumble,Lulu,Ambessa,Orianna,Xin Zhao,Yunara,Jax,Bard
+LOLTMNT03_337894,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Blue,1,Varus,Malphite,Vi,Nami,Karma,Ryze,Neeko,Gnar,Sylas,Kai'Sa
+LOLTMNT03_337894,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Red,0,Rumble,Jayce,Pantheon,Jarvan IV,Wukong,Renekton,Ambessa,Taliyah,Alistar,Corki
+13070-13070_game_1,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,0,Jayce,Orianna,Jarvan IV,Bard,Xin Zhao,Vi,Taliyah,Aphelios,K'Sante,Nautilus
+13070-13070_game_1,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Red,1,Neeko,Malphite,Varus,Thresh,Ambessa,Azir,Rumble,Yunara,Qiyana,Alistar
+LOLTMNT03_336867,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Blue,1,Malphite,Pantheon,Wukong,Xayah,Zeri,Vi,Lucian,Braum,Gragas,Syndra
+LOLTMNT03_336867,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Red,0,Jayce,Rumble,Akali,K'Sante,Kennen,Jarvan IV,Aurora,Gwen,Kalista,Renata Glasc
+13070-13070_game_2,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,0,Jayce,Orianna,Neeko,Wukong,Pantheon,Bard,Xin Zhao,Sivir,Gwen,Anivia
+13070-13070_game_2,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Red,1,Malphite,Jarvan IV,Jax,Ambessa,Zaahen,Varus,Karma,Sion,Ryze,Poppy
+13070-13070_game_3,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,0,Neeko,Orianna,Malphite,Aurora,Cassiopeia,Wukong,Rek'Sai,Ahri,Kalista,Renata Glasc
+13070-13070_game_3,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Red,1,Kai'Sa,Sylas,Jayce,Corki,Lulu,Jarvan IV,Miss Fortune,Rakan,Viktor,Zaahen
+LOLTMNT06_163306,oe:team:1285e1c04d54de96502f12da4d49458,Team Heretics,Blue,1,Neeko,Taliyah,Yunara,Bard,Rakan,Azir,Rumble,Pantheon,Nautilus,Smolder
+LOLTMNT06_163306,oe:team:a2065488a11a2c0a2403a7b347eec61,Shifters,Red,0,Jayce,Aphelios,Orianna,Varus,Alistar,Ryze,Wukong,K'Sante,Corki,Rell
+LOLTMNT06_163319,oe:team:2d096df29ab7e32950c86e0d72fc986,Los Ratones,Blue,1,Rumble,Varus,Taliyah,Nautilus,Aatrox,Ryze,Corki,Jarvan IV,Nami,Volibear
+LOLTMNT06_163319,oe:team:42bf6c1040db8f2221ff017fa4d34e4,Karmine Corp Blue,Red,0,Sion,Rakan,Malphite,Braum,Bard,Orianna,Yunara,Wukong,Alistar,Zaahen
+LOLTMNT06_164300,oe:team:e8d8ae992fe72acb7adc7bfcee31dbb,Team Vitality,Blue,1,Neeko,Qiyana,Rumble,Jax,Rakan,Azir,Xin Zhao,Corki,Nautilus,Renekton
+LOLTMNT06_164300,oe:team:d2ba9f92d85cff67d60aaad88e61048,Natus Vincere,Red,0,Jayce,Pantheon,Varus,Bard,Poppy,Taliyah,Yunara,Ambessa,Alistar,K'Sante
+LOLTMNT06_163332,oe:team:78f183fa5a7d8ecb22b9ad272c3abd7,Fnatic,Blue,1,Neeko,Irelia,Sylas,Rakan,Renata Glasc,Yunara,Wukong,Renekton,Alistar,Taliyah
+LOLTMNT06_163332,oe:team:75760dca486d4682426196b76bd1a54,SK Gaming,Red,0,Rumble,Poppy,Malphite,Azir,Orianna,Varus,Vi,Kennen,Ryze,Nautilus
+LOLTMNT06_164317,oe:team:7d6673d3a9d00363c6bebc1a630da6e,G2 Esports,Blue,0,Rumble,Jayce,Orianna,Gwen,Gnar,Anivia,Xin Zhao,Yunara,K'Sante,Rell
+LOLTMNT06_164317,oe:team:6cd05f0ac20bfb965a59dc8bcc4f184,GiantX,Red,1,Dr. Mundo,Malphite,Azir,Braum,Nautilus,Ryze,Varus,Jarvan IV,Bard,Ambessa
+LOLTMNT06_164335,oe:team:f3aa9bbd924ce3af42ac53f8326bc7c,Karmine Corp,Blue,0,Varus,Jayce,Pantheon,K'Sante,Galio,Rumble,Xin Zhao,Taliyah,Karma,Caitlyn
+LOLTMNT06_164335,oe:team:4acc40654379b4da680be1bd3129dfa,Movistar KOI,Red,1,Neeko,Malphite,Orianna,Nautilus,Alistar,Azir,Yunara,Bard,Sion,Jarvan IV
+13071-13071_game_1,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Blue,0,Rumble,Jayce,Orianna,Ryze,LeBlanc,Varus,Trundle,Sylas,Braum,Yorick
+13071-13071_game_1,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Red,1,Akali,Dr. Mundo,Jarvan IV,Alistar,Renekton,Malphite,Miss Fortune,Nautilus,Ambessa,Azir
+13071-13071_game_2,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Blue,0,Rumble,Orianna,Jayce,Gwen,Rek'Sai,Ryze,Wukong,Sion,Corki,Nami
+13071-13071_game_2,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Red,1,Akali,Aphelios,Jarvan IV,Sivir,Renata Glasc,Yunara,Taliyah,Vi,Alistar,Renekton
+13072-13072_game_1,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Blue,0,Jayce,Rumble,Orianna,Jarvan IV,Ambessa,Wukong,Jhin,Syndra,K'Sante,Leona
+13072-13072_game_1,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,1,Malphite,Neeko,LeBlanc,Gnar,Rakan,Varus,Renekton,Azir,Poppy,Nautilus
+13072-13072_game_2,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Blue,0,Jayce,Orianna,Neeko,Aphelios,Miss Fortune,Rumble,Pantheon,Yone,Corki,Rell
+13072-13072_game_2,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,1,Malphite,Akali,Karma,Lucian,Yunara,Ambessa,Jarvan IV,Ryze,Kai'Sa,Alistar
+13072-13072_game_3,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Blue,0,Jayce,Orianna,Akali,Thresh,Taliyah,Yunara,Aurora,Zaahen,Qiyana,Bard
+13072-13072_game_3,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,1,Malphite,Neeko,Galio,Xin Zhao,Nocturne,Vi,Aphelios,Kennen,Ahri,Rakan
+13073-13073_game_1,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Blue,0,Orianna,Varus,Jayce,Gnar,Zaahen,Aphelios,Jarvan IV,Aurelion Sol,Lulu,Ornn
+13073-13073_game_1,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Red,1,Rumble,Neeko,Malphite,Thresh,Nautilus,Azir,Xin Zhao,Yunara,Renekton,Bard
+13073-13073_game_2,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Blue,0,Jayce,Neeko,Rumble,Nautilus,Renata Glasc,Ryze,Dr. Mundo,Zaahen,Alistar,Sivir
+13073-13073_game_2,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,1,Varus,Orianna,Sylas,Poppy,Ezreal,Malphite,Ambessa,Cassiopeia,Kai'Sa,Rakan
+13073-13073_game_3,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Blue,1,Rumble,Neeko,Qiyana,Gnar,Karma,Wukong,K'Sante,Taliyah,Ashe,Renata Glasc
+13073-13073_game_3,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,0,Orianna,Varus,Jayce,Lucian,Jhin,Miss Fortune,Vi,Ahri,Poppy,Leona
+LOLTMNT06_163405,oe:team:d2ba9f92d85cff67d60aaad88e61048,Natus Vincere,Blue,0,Jayce,Vi,Malphite,Sivir,Poppy,K'Sante,Varus,Akali,Ambessa,Rakan
+LOLTMNT06_163405,oe:team:78f183fa5a7d8ecb22b9ad272c3abd7,Fnatic,Red,1,Neeko,Yunara,Sylas,Qiyana,Wukong,Rumble,Azir,Jarvan IV,Corki,Alistar
+LOLTMNT06_164420,oe:team:42bf6c1040db8f2221ff017fa4d34e4,Karmine Corp Blue,Blue,0,Jayce,Rumble,Corki,Sivir,Kai'Sa,Ryze,Pantheon,Aatrox,Aphelios,Bard
+LOLTMNT06_164420,oe:team:e8d8ae992fe72acb7adc7bfcee31dbb,Team Vitality,Red,1,Malphite,Orianna,Varus,Yunara,Ezreal,Azir,Wukong,Renekton,Xayah,Rakan
+LOLTMNT06_163424,oe:team:1285e1c04d54de96502f12da4d49458,Team Heretics,Blue,0,Poppy,Orianna,Xin Zhao,Bard,Neeko,Dr. Mundo,Varus,Ryze,Ambessa,Rakan
+LOLTMNT06_163424,oe:team:6cd05f0ac20bfb965a59dc8bcc4f184,GiantX,Red,1,Jayce,Sylas,Rumble,Nautilus,Renekton,Malphite,Azir,Jhin,Aatrox,Alistar
+LOLTMNT06_164458,oe:team:a2065488a11a2c0a2403a7b347eec61,Shifters,Blue,0,Yunara,Poppy,Jayce,Bard,Jarvan IV,Vi,Varus,Neeko,Cassiopeia,Aurora
+LOLTMNT06_164458,oe:team:4acc40654379b4da680be1bd3129dfa,Movistar KOI,Red,1,Wukong,K'Sante,Malphite,Taliyah,Renekton,Azir,Ambessa,Sivir,Rumble,Nautilus
+LOLTMNT06_164476,oe:team:2d096df29ab7e32950c86e0d72fc986,Los Ratones,Blue,0,Rumble,Jayce,Varus,Ambessa,K'Sante,Orianna,Yunara,Bard,Vi,Dr. Mundo
+LOLTMNT06_164476,oe:team:f3aa9bbd924ce3af42ac53f8326bc7c,Karmine Corp,Red,1,Sion,Malphite,Jarvan IV,Jax,Nocturne,Azir,Aphelios,Lulu,Wukong,Gnar
+LOLTMNT06_164483,oe:team:7d6673d3a9d00363c6bebc1a630da6e,G2 Esports,Blue,1,Malphite,Yunara,Rumble,Neeko,Akali,Jayce,Ezreal,K'Sante,Orianna,Nautilus
+LOLTMNT06_164483,oe:team:75760dca486d4682426196b76bd1a54,SK Gaming,Red,0,Poppy,Dr. Mundo,Varus,Azir,Ryze,Vi,Corki,Ambessa,Bard,Aurelion Sol
+13074-13074_game_1,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,0,Jayce,Neeko,Varus,Vi,Xin Zhao,Azir,Jarvan IV,Sion,Corki,Bard
+13074-13074_game_1,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,1,Malphite,Poppy,Rumble,Aphelios,Miss Fortune,Orianna,Ambessa,Yunara,Nocturne,Alistar
+13074-13074_game_2,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,0,Jayce,Neeko,Varus,Rakan,Kai'Sa,Ryze,Qiyana,Rek'Sai,Miss Fortune,Rell
+13074-13074_game_2,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,1,Malphite,Poppy,Rumble,Leona,Sivir,Vi,Syndra,Renekton,Lucian,Braum
+13075-13075_game_1,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,1,Malphite,Jarvan IV,Varus,Kai'Sa,Syndra,Orianna,Yunara,K'Sante,Xin Zhao,Bard
+13075-13075_game_1,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,0,Jayce,Poppy,Azir,Nocturne,Pantheon,Rumble,Neeko,Vi,Corki,Yone
+13075-13075_game_2,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,1,Malphite,Jarvan IV,Ambessa,Kai'Sa,Gwen,Sion,Miss Fortune,Alistar,Akali,Nocturne
+13075-13075_game_2,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,0,Jayce,Varus,Renekton,Pantheon,Azir,Syndra,Qiyana,Nautilus,Jhin,Zaahen
+LOLTMNT03_338494,oe:team:ef69efa6acebe94107f0cf1ba716806,Dplus Kia,Blue,0,Orianna,Azir,Jayce,Nautilus,Varus,Ryze,K'Sante,Jarvan IV,Bard,Sivir
+LOLTMNT03_338494,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Red,1,Malphite,Yunara,Vi,Lucian,Karma,Rumble,Pantheon,Taliyah,Ezreal,Neeko
+LOLTMNT03_339373,oe:team:ef69efa6acebe94107f0cf1ba716806,Dplus Kia,Blue,0,Orianna,Azir,Jayce,Braum,Alistar,Qiyana,Varus,Nautilus,Zoe,Gwen
+LOLTMNT03_339373,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Red,1,Malphite,Vi,Renekton,Ahri,LeBlanc,Ambessa,Yunara,Aurora,Nocturne,Leona
+13076-13076_game_1,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,1,Varus,Neeko,LeBlanc,Nautilus,Miss Fortune,Rumble,Xin Zhao,Ryze,Corki,Nami
+13076-13076_game_1,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,0,Jayce,Orianna,Azir,Poppy,Lulu,Ambessa,Jarvan IV,Anivia,Karma,Caitlyn
+LOLTMNT03_338498,oe:team:ef69efa6acebe94107f0cf1ba716806,Dplus Kia,Blue,0,Orianna,Azir,Lulu,Xin Zhao,Wukong,Vi,Lucian,Nami,Zaahen,Twisted Fate
+LOLTMNT03_338498,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Red,1,Malphite,Poppy,Sion,Ahri,LeBlanc,Jayce,Kalista,Renata Glasc,Gnar,Akali
+13076-13076_game_2,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,1,Varus,Neeko,LeBlanc,Thresh,Nautilus,Pantheon,Ziggs,Leona,Aurora,Renekton
+13076-13076_game_2,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,0,Jayce,Orianna,Azir,Akali,Taliyah,Aphelios,Vi,Ahri,Rell,Jax
+13076-13076_game_3,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,0,Neeko,Qiyana,Jayce,Poppy,Alistar,Varus,Wukong,Akali,Sion,Lulu
+13076-13076_game_3,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,1,Gnar,Azir,Malphite,Gwen,Nautilus,Orianna,Miss Fortune,Dr. Mundo,Zaahen,Renata Glasc
+LOLTMNT03_338517,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Blue,0,Jayce,Ambessa,Bard,Poppy,Rakan,Azir,Yunara,Alistar,Xin Zhao,Rek'Sai
+LOLTMNT03_338517,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Red,1,Malphite,Neeko,Rumble,Gnar,K'Sante,Orianna,Corki,Nocturne,Renekton,Braum
+LOLTMNT03_338532,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Blue,1,Malphite,Vi,K'Sante,Jarvan IV,Wukong,Pantheon,Gnar,Taliyah,Leona,Sivir
+LOLTMNT03_338532,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Red,0,Jayce,Ambessa,Rumble,Bard,Nautilus,Neeko,Ryze,Kennen,Lee Sin,Aphelios
+13077-13077_game_1,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Blue,0,Jayce,Orianna,Varus,Nautilus,Alistar,Ambessa,Pantheon,Ahri,Miss Fortune,Poppy
+13077-13077_game_1,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,1,Malphite,Jarvan IV,Neeko,Bard,Yunara,Rumble,Vi,Taliyah,Sivir,Rell
+LOLTMNT03_338544,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Blue,1,Malphite,Bard,Ambessa,Miss Fortune,Ashe,Jayce,Zoe,K'Sante,Kalista,Renata Glasc
+LOLTMNT03_338544,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Red,0,Rumble,Varus,Vi,Nautilus,Rell,Aurora,Jarvan IV,Gwen,Lucian,Nami
+13077-13077_game_2,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Blue,1,Malphite,Neeko,Jarvan IV,Yunara,Rakan,Renekton,Trundle,Azir,Jhin,Nautilus
+13077-13077_game_2,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,0,Jayce,Orianna,Varus,Aphelios,Caitlyn,K'Sante,Wukong,LeBlanc,Corki,Alistar
+13077-13077_game_3,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Blue,0,Jayce,Orianna,Jarvan IV,Gwen,Aatrox,Yunara,Nocturne,Lulu,Sion,Anivia
+13077-13077_game_3,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,1,Malphite,Xin Zhao,Qiyana,Aurora,Cassiopeia,Neeko,Kai'Sa,Dr. Mundo,Ryze,Yorick
+13078-13078_game_1,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Blue,1,Malphite,Neeko,Akali,Ahri,Ryze,Rumble,Aphelios,Taliyah,Nautilus,Wukong
+13078-13078_game_1,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Red,0,Jayce,Varus,Orianna,Thresh,Vi,K'Sante,Yunara,Jarvan IV,Zoe,Braum
+LOLTMNT03_339583,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Blue,0,Jayce,Rumble,Poppy,Bard,Neeko,Azir,Varus,Jarvan IV,Rakan,Gnar
+LOLTMNT03_339583,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Red,1,Malphite,Ambessa,Aurora,Alistar,Nautilus,Pantheon,Orianna,Jhin,Nocturne,Renekton
+13078-13078_game_2,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Blue,0,Jayce,Varus,Orianna,Malphite,Qiyana,Azir,Miss Fortune,Trundle,Rek'Sai,Leona
+13078-13078_game_2,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Red,1,Poppy,Neeko,Akali,Rell,Alistar,Ryze,Corki,Sion,Rakan,Nocturne
+LOLTMNT03_339592,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Blue,0,Jayce,Rumble,Vi,Nautilus,Neeko,Yunara,Aurora,Aatrox,Poppy,Zaahen
+LOLTMNT03_339592,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Red,1,Malphite,Aphelios,Ryze,Lulu,Alistar,Ambessa,Corki,Taliyah,Xin Zhao,Elise
+13079-13079_game_1,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Blue,0,Jayce,Rumble,Neeko,Braum,Nautilus,Azir,Jarvan IV,Ornn,Alistar,Yunara
+13079-13079_game_1,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Red,1,Malphite,Orianna,Vi,Sivir,Miss Fortune,Varus,Renekton,Taliyah,Rell,Wukong
+LOLTMNT03_339605,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Blue,0,Rumble,Jayce,Aphelios,Anivia,Galio,Ryze,Lucian,Braum,Wukong,K'Sante
+LOLTMNT03_339605,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Red,1,Malphite,Neeko,Cassiopeia,Trundle,Kennen,Vi,Sivir,Alistar,Gwen,Akali
+13079-13079_game_2,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Blue,0,Orianna,Jayce,Pantheon,Miss Fortune,Corki,Neeko,Xin Zhao,Kai'Sa,Malzahar,Zaahen
+13079-13079_game_2,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Red,1,Vi,Aphelios,Malphite,Syndra,Anivia,Ryze,Nautilus,Ambessa,Jhin,Qiyana
+LOLTMNT03_339627,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Blue,1,Neeko,Malphite,Varus,Taliyah,Sion,Azir,Corki,Jarvan IV,Renekton,Nami
+LOLTMNT03_339627,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Red,0,Jayce,Rumble,Xin Zhao,Nautilus,Gwen,Yunara,Pantheon,Lulu,K'Sante,Akali
+13080-13080_game_1,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Blue,1,Neeko,Malphite,Wukong,Sivir,Yunara,Varus,Yorick,Ryze,Dr. Mundo,Braum
+13080-13080_game_1,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,0,Orianna,Jayce,Azir,Xin Zhao,Poppy,Rumble,Jarvan IV,Taliyah,Miss Fortune,Bard
+13080-13080_game_2,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Blue,0,Neeko,Jayce,Ahri,Ambessa,Gwen,Trundle,Aphelios,Nautilus,Renekton,Mel
+13080-13080_game_2,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,1,Orianna,Azir,Sylas,Akali,Sion,Malphite,Jinx,Thresh,Gnar,Aurora
+LOLTMNT03_340003,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Blue,0,Rumble,Jayce,Neeko,Jax,Aurora,Xin Zhao,Ryze,Gwen,Jhin,Rakan
+LOLTMNT03_340003,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Red,1,Malphite,Varus,Vi,Lucian,Poppy,Orianna,Ambessa,Ezreal,Qiyana,Leona
+13080-13080_game_3,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Blue,1,Neeko,Vi,Wukong,Poppy,Ambessa,Yunara,Xin Zhao,Rakan,Rek'Sai,Syndra
+13080-13080_game_3,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,0,Jayce,Orianna,LeBlanc,Akali,Ahri,Azir,Lulu,Sivir,Sion,Qiyana
+13081-13081_game_1,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Blue,1,Malphite,Renekton,Neeko,Miss Fortune,Sivir,Varus,K'Sante,Ryze,Wukong,Rell
+13081-13081_game_1,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Red,0,Jayce,Orianna,Caitlyn,Xin Zhao,Karma,Rumble,Jarvan IV,Taliyah,Yunara,Lulu
+LOLTMNT03_341143,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Blue,0,Jayce,Rumble,Orianna,Nautilus,Malphite,Ryze,Vi,Gnar,Ezreal,Lissandra
+LOLTMNT03_341143,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Red,1,Bard,Neeko,Azir,Yunara,Poppy,Varus,Renekton,Taliyah,Rakan,Wukong
+13081-13081_game_2,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Blue,0,Renekton,Jayce,Orianna,Jhin,Miss Fortune,Ambessa,Nautilus,Draven,Nocturne,Syndra
+13081-13081_game_2,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Red,1,Malphite,Vi,Karma,Trundle,Zyra,Neeko,Qiyana,Sion,Kai'Sa,Azir
+LOLTMNT03_341150,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Blue,1,Malphite,Nocturne,Rumble,Jarvan IV,Pantheon,Azir,Aphelios,Lulu,Zaahen,Dr. Mundo
+LOLTMNT03_341150,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Red,0,Bard,Jayce,Ambessa,Poppy,Xin Zhao,Yunara,Neeko,Akali,Sejuani,Rek'Sai
+13081-13081_game_3,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Blue,1,Malphite,LeBlanc,Kennen,Aphelios,Xayah,Vi,Udyr,Ahri,Miss Fortune,Bard
+13081-13081_game_3,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Red,0,Jayce,Orianna,Jax,Karma,Caitlyn,Zaahen,Xin Zhao,Sylas,Ashe,Seraphine
+13082-13082_game_1,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Blue,0,Jayce,Renekton,Varus,Lulu,Braum,Jarvan IV,Orianna,Ambessa,Miss Fortune,Alistar
+13082-13082_game_1,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Red,1,Malphite,Rumble,Neeko,Aphelios,Kai'Sa,Azir,Xin Zhao,Yunara,Zaahen,Rell
+LOLTMNT03_340138,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Blue,0,Rumble,Orianna,Pantheon,Nautilus,Poppy,Ryze,Vi,Kai'Sa,Neeko,Gnar
+LOLTMNT03_340138,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Red,1,Malphite,Azir,Corki,Rakan,Sion,Yunara,Jayce,Taliyah,Alistar,Renekton
+13082-13082_game_2,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Blue,0,Jayce,Varus,Aphelios,Ahri,Renekton,Taliyah,Vi,Corki,Nami,Gwen
+13082-13082_game_2,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Red,1,Malphite,Rumble,Ziggs,Nautilus,Leona,Neeko,Wukong,Kai'Sa,Sion,Akali
+LOLTMNT03_340145,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Blue,0,Rumble,Orianna,Ambessa,Ezreal,Lucian,Pantheon,Corki,Gwen,Akali,Poppy
+LOLTMNT03_340145,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Red,1,Malphite,Azir,Varus,Ahri,Bard,Aurora,Jarvan IV,Zaahen,Kalista,Renata Glasc
+13082-13082_game_3,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Blue,0,Jayce,Rumble,Malphite,Qiyana,Renekton,Pantheon,Sivir,Leona,Syndra,Gnar
+13082-13082_game_3,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Red,1,Sylas,Aphelios,Dr. Mundo,Anivia,Malzahar,Varus,Ryze,Nautilus,K'Sante,Nocturne
+LOLTMNT03_341173,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Blue,0,Rumble,Malphite,Nocturne,Lucian,Karma,Sion,Xin Zhao,Azir,Caitlyn,Braum
+LOLTMNT03_341173,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Red,1,Sylas,Varus,Ambessa,Leona,Nautilus,Orianna,K'Sante,Jax,Jhin,Bard
+13083-13083_game_1,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,0,Jayce,Orianna,Varus,K'Sante,Sion,Dr. Mundo,Yunara,Renekton,Blitzcrank,Syndra
+13083-13083_game_1,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Red,1,Neeko,Sylas,Ambessa,Lulu,Cassiopeia,Malphite,Aphelios,Thresh,Ryze,Gnar
+13083-13083_game_2,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,1,Jayce,Orianna,Akali,Alistar,Karma,Neeko,Ambessa,Sivir,Xin Zhao,Ahri
+13083-13083_game_2,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Red,0,Jarvan IV,Aurora,Rumble,Vi,Nocturne,Varus,Pantheon,Sion,Taliyah,Bard
+LOLTMNT03_341253,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Blue,0,Jayce,Ambessa,Rumble,Poppy,Gnar,Orianna,Jarvan IV,Sivir,Alistar,Rek'Sai
+LOLTMNT03_341253,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Red,1,Malphite,Akali,Nocturne,Bard,Gwen,Azir,Varus,Xin Zhao,Rakan,Sion
+LOLTMNT03_340232,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Blue,0,Jayce,Ambessa,Rumble,Nautilus,Gnar,Neeko,Wukong,Ahri,Ezreal,K'Sante
+LOLTMNT03_340232,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Red,1,Malphite,Renekton,Pantheon,Yunara,Jax,Vi,Corki,Taliyah,Bard,Aurora
+13084-13084_game_1,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,0,Jayce,Varus,Rumble,Kai'Sa,Aphelios,Sion,Azir,Pantheon,Yunara,Braum
+13084-13084_game_1,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,1,Malphite,Neeko,Jarvan IV,Bard,Poppy,Orianna,Ambessa,Trundle,Corki,Alistar
+LOLTMNT03_341276,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Blue,0,Jayce,Ambessa,Rumble,Gnar,Qiyana,Aphelios,Cassiopeia,Rell,Hecarim,Aatrox
+LOLTMNT03_341276,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Red,1,Malphite,Yunara,Pantheon,Lee Sin,Nocturne,Ryze,Ziggs,Nautilus,Trundle,Renekton
+13084-13084_game_2,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,0,Jayce,Kai'Sa,Qiyana,Yone,Vi,Varus,Jarvan IV,Ryze,Leona,Galio
+13084-13084_game_2,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,1,Malphite,Neeko,Poppy,Bard,K'Sante,Rumble,Miss Fortune,Rell,Wukong,Akali
+13084-13084_game_3,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Blue,0,Jayce,Neeko,Malphite,Bard,Jinx,Renekton,Aphelios,Syndra,Nautilus,Viego
+13084-13084_game_3,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Red,1,Vi,Kai'Sa,Sylas,Thresh,Qiyana,Xin Zhao,Aurora,Cassiopeia,Sivir,Rakan
+LOLTMNT03_341342,oe:team:ef69efa6acebe94107f0cf1ba716806,Dplus Kia,Blue,1,Malphite,Azir,Yunara,Renekton,Poppy,Ryze,Jarvan IV,Corki,Ambessa,Nami
+LOLTMNT03_341342,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Red,0,Jayce,Rumble,Orianna,Nautilus,Neeko,Varus,Xin Zhao,Anivia,Bard,Gwen
+LOLTMNT03_341348,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Blue,1,Neeko,Malphite,Orianna,K'Sante,Ornn,Rumble,Wukong,Galio,Ashe,Seraphine
+LOLTMNT03_341348,oe:team:ef69efa6acebe94107f0cf1ba716806,Dplus Kia,Red,0,Azir,Jayce,Aurora,Nautilus,Blitzcrank,Vi,Yunara,Lulu,Sion,Syndra
+13085-13085_game_1,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,0,Jayce,Orianna,Neeko,Aphelios,Kai'Sa,Ryze,Vi,K'Sante,Miss Fortune,Leona
+13085-13085_game_1,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,1,Malphite,Varus,Poppy,Yunara,Rakan,Jarvan IV,Rumble,Azir,Jhin,Nautilus
+13085-13085_game_2,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Blue,0,Jayce,Malphite,Orianna,Renekton,Sion,Sivir,Alistar,Poppy,Jax,Ahri
+13085-13085_game_2,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Red,1,Sylas,Neeko,Bard,Syndra,Ambessa,Varus,Rakan,Wukong,Zaahen,Taliyah
+LOLTMNT04_149111,oe:team:6cd05f0ac20bfb965a59dc8bcc4f184,GiantX,Blue,0,Sion,Orianna,Ryze,Nami,Alistar,Yone,Sejuani,Kai'Sa,Rakan,Gnar
+LOLTMNT04_149111,oe:team:2d096df29ab7e32950c86e0d72fc986,Los Ratones,Red,1,Rumble,Jarvan IV,Varus,Neeko,Jax,Azir,Corki,Wukong,Volibear,Braum
+LOLTMNT04_149122,oe:team:d2ba9f92d85cff67d60aaad88e61048,Natus Vincere,Blue,0,Orianna,Varus,Wukong,Taliyah,Yone,Yunara,Sion,Azir,Aatrox,Alistar
+LOLTMNT04_149122,oe:team:42bf6c1040db8f2221ff017fa4d34e4,Karmine Corp Blue,Red,1,Jayce,Malphite,K'Sante,Xin Zhao,Bard,Rumble,Aphelios,Jarvan IV,Akali,Neeko
+LOLTMNT04_149134,oe:team:1285e1c04d54de96502f12da4d49458,Team Heretics,Blue,0,Renekton,Pantheon,Orianna,Corki,Rakan,K'Sante,Ryze,Dr. Mundo,Aphelios,Thresh
+LOLTMNT04_149134,oe:team:e8d8ae992fe72acb7adc7bfcee31dbb,Team Vitality,Red,1,Azir,Jayce,Varus,Karma,Neeko,Rumble,Wukong,Taliyah,Kalista,Renata Glasc
+LOLTMNT04_149143,oe:team:7d6673d3a9d00363c6bebc1a630da6e,G2 Esports,Blue,1,Neeko,Yunara,Aurora,Alistar,Poppy,Rumble,Taliyah,Jarvan IV,Kai'Sa,Rakan
+LOLTMNT04_149143,oe:team:a2065488a11a2c0a2403a7b347eec61,Shifters,Red,0,Jayce,Varus,Orianna,Sivir,Nautilus,K'Sante,Azir,Ezreal,Xin Zhao,Karma
+LOLTMNT04_150134,oe:team:75760dca486d4682426196b76bd1a54,SK Gaming,Blue,0,Varus,Jayce,Rumble,Braum,Rell,Jinx,Pantheon,Ekko,Nautilus,Kled
+LOLTMNT04_150134,oe:team:f3aa9bbd924ce3af42ac53f8326bc7c,Karmine Corp,Red,1,Irelia,Vi,Akali,Gwen,Ambessa,Yunara,Jarvan IV,Azir,Sion,Leona
+LOLTMNT04_149159,oe:team:78f183fa5a7d8ecb22b9ad272c3abd7,Fnatic,Blue,1,Neeko,Yunara,Taliyah,Rakan,Nami,Azir,K'Sante,Jarvan IV,Aphelios,Thresh
+LOLTMNT04_149159,oe:team:4acc40654379b4da680be1bd3129dfa,Movistar KOI,Red,0,Jayce,Varus,Vi,Poppy,Kai'Sa,Rumble,Pantheon,Akali,Alistar,Corki
+LOLTMNT01_325708,oe:team:8eb884e168f28402ce685bedebb5250,Team Liquid,Blue,0,Ziggs,Jayce,Varus,Yunara,Alistar,Orianna,Corki,Sion,Xin Zhao,Nami
+LOLTMNT01_325708,oe:team:fc8e90107dabb9a35c490b0d86adea0,Cloud9,Red,1,Malphite,Akali,Rumble,Nocturne,Nautilus,Azir,Nidalee,Renekton,Sivir,Bard
+LOLTMNT01_325721,oe:team:fc8e90107dabb9a35c490b0d86adea0,Cloud9,Blue,0,Ryze,Jayce,Akali,Sylas,Ahri,Varus,Jarvan IV,Aurora,Taliyah,Rakan
+LOLTMNT01_325721,oe:team:8eb884e168f28402ce685bedebb5250,Team Liquid,Red,1,Ziggs,Malphite,Ambessa,Karma,Cassiopeia,Rumble,Jhin,Vi,Yone,Tahm Kench
+LOLTMNT01_325749,oe:team:289284911fb6f41c0ccaecc3a0c2891,Disguised,Blue,0,Jayce,Rumble,Jarvan IV,Poppy,Bard,Renekton,Taliyah,Pantheon,Neeko,Kai'Sa
+LOLTMNT01_325749,oe:team:f90422f1cbcb24bc2a855202582ec29,Sentinels,Red,1,Nocturne,Vi,Varus,Lucian,Nautilus,Azir,Corki,K'Sante,Qiyana,Alistar
+LOLTMNT01_325761,oe:team:f90422f1cbcb24bc2a855202582ec29,Sentinels,Blue,0,Orianna,Ryze,Rumble,Nautilus,Lulu,Lucian,Vi,Nami,Cassiopeia,Gwen
+LOLTMNT01_325761,oe:team:289284911fb6f41c0ccaecc3a0c2891,Disguised,Red,1,Jayce,Varus,Jarvan IV,Viktor,Syndra,Ambessa,Aurora,Yunara,Wukong,Rakan
+LOLTMNT01_324691,oe:team:289284911fb6f41c0ccaecc3a0c2891,Disguised,Blue,0,Rumble,Jayce,Orianna,Lulu,Thresh,Sion,Xin Zhao,Akali,Bard,Sivir
+LOLTMNT01_324691,oe:team:f90422f1cbcb24bc2a855202582ec29,Sentinels,Red,1,Ryze,Nocturne,Varus,Ziggs,Miss Fortune,Jarvan IV,Aphelios,Viktor,Rell,Mordekaiser
+LOLTMNT03_341399,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Blue,0,Azir,Orianna,Bard,Alistar,Karma,Rumble,Varus,Taliyah,Neeko,Nocturne
+LOLTMNT03_341399,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Red,1,Malphite,Yunara,Akali,Ambessa,Pantheon,Jayce,Ryze,Vi,Corki,Nami
+LOLTMNT03_340339,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Blue,1,Malphite,Yunara,Pantheon,Akali,Rek'Sai,Xin Zhao,Aphelios,Thresh,Aurora,Yone
+LOLTMNT03_340339,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Red,0,Azir,Orianna,Ambessa,Gwen,Gnar,Lucian,Jarvan IV,Milio,Sion,Syndra
+13086-13086_game_1,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Blue,0,Jayce,Neeko,Malphite,Sivir,Kai'Sa,Rumble,Azir,Dr. Mundo,Ezreal,Karma
+13086-13086_game_1,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,1,Varus,Akali,Sylas,Rakan,Nautilus,Jarvan IV,K'Sante,Orianna,Yunara,Lulu
+LOLTMNT03_340341,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Blue,0,Azir,Orianna,Yunara,Sivir,Sylas,Qiyana,Ezreal,Gnar,Rell,Ahri
+LOLTMNT03_340341,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Red,1,Malphite,Ambessa,Nautilus,Leona,Akali,Pantheon,K'Sante,Bard,Galio,Kai'Sa
+13086-13086_game_2,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Blue,0,Jayce,Neeko,Malphite,Kai'Sa,Alistar,Aurora,Wukong,Sion,Corki,Braum
+13086-13086_game_2,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,1,Varus,Ryze,Sylas,Rakan,Sivir,Vi,Renekton,Ahri,Miss Fortune,Rell
+LOLTMNT03_341439,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Blue,0,Rumble,Jayce,Ambessa,Alistar,Yunara,Pantheon,Orianna,Gwen,Corki,Rakan
+LOLTMNT03_341439,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Red,1,Malphite,Neeko,Renekton,Varus,Nocturne,Azir,Xin Zhao,K'Sante,Lucian,Braum
+13086-13086_game_3,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Blue,1,Neeko,Sylas,Aphelios,Kai'Sa,Nautilus,Ryze,Sivir,Alistar,Yorick,Ambessa
+13086-13086_game_3,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,0,Varus,Malphite,Jayce,Jax,Pantheon,Cassiopeia,Qiyana,Gnar,Kalista,Renata Glasc
+LOLTMNT03_341446,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Blue,1,Malphite,Jarvan IV,Vi,Nocturne,Trundle,Ryze,Ambessa,Renekton,Varus,Karma
+LOLTMNT03_341446,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Red,0,Jayce,Rumble,Wukong,Aphelios,Nautilus,Yunara,Taliyah,Neeko,Gnar,Dr. Mundo
+13087-13087_game_1,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Blue,0,Jayce,Akali,Vi,Sivir,Miss Fortune,Rumble,Varus,Syndra,Qiyana,Nautilus
+13087-13087_game_1,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,1,Malphite,Neeko,Jarvan IV,Poppy,Wukong,Orianna,Pantheon,Ambessa,Yunara,Alistar
+LOLTMNT03_341450,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Blue,0,Jayce,Rumble,Nocturne,Ahri,Alistar,Wukong,Zoe,Kennen,Nautilus,Kai'Sa
+LOLTMNT03_341450,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Red,1,Malphite,Akali,Aurora,Sivir,Ezreal,Vi,Ziggs,Zaahen,Miss Fortune,Leona
+13087-13087_game_2,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Blue,1,Neeko,Sylas,Dr. Mundo,Nocturne,Vi,Azir,Poppy,Miss Fortune,Xin Zhao,Sion
+13087-13087_game_2,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,0,Ryze,Jayce,Malphite,Gnar,Aatrox,Corki,Renekton,Taliyah,Rell,Trundle
+LOLTMNT04_150207,oe:team:e8d8ae992fe72acb7adc7bfcee31dbb,Team Vitality,Blue,0,Varus,Wukong,Poppy,Nautilus,Azir,Kai'Sa,Jarvan IV,K'Sante,Neeko,Zoe
+LOLTMNT04_150207,oe:team:a2065488a11a2c0a2403a7b347eec61,Shifters,Red,1,Renekton,Pantheon,Jayce,Rakan,Orianna,Corki,Rumble,Vi,Nami,Swain
+LOLTMNT04_150214,oe:team:75760dca486d4682426196b76bd1a54,SK Gaming,Blue,1,Malphite,Azir,Orianna,Gwen,Alistar,Ryze,Yunara,Wukong,Cho'Gath,Rell
+LOLTMNT04_150214,oe:team:d2ba9f92d85cff67d60aaad88e61048,Natus Vincere,Red,0,Varus,Jayce,Rumble,Bard,Gnar,Taliyah,Aatrox,Aphelios,Sion,Rakan
+LOLTMNT04_149225,oe:team:1285e1c04d54de96502f12da4d49458,Team Heretics,Blue,1,Sion,Corki,Jarvan IV,Bard,Cho'Gath,Jayce,Aphelios,Cassiopeia,K'Sante,Nautilus
+LOLTMNT04_149225,oe:team:2d096df29ab7e32950c86e0d72fc986,Los Ratones,Red,0,Rumble,Varus,Orianna,Aatrox,Gnar,Dr. Mundo,Ryze,Caitlyn,Kled,Braum
+LOLTMNT04_150239,oe:team:42bf6c1040db8f2221ff017fa4d34e4,Karmine Corp Blue,Blue,0,Orianna,Jayce,Azir,Kai'Sa,Rakan,Yunara,Ryze,K'Sante,Xin Zhao,Bard
+LOLTMNT04_150239,oe:team:4acc40654379b4da680be1bd3129dfa,Movistar KOI,Red,1,Neeko,Varus,Akali,Lulu,Jarvan IV,Rumble,Vi,Taliyah,Aphelios,Alistar
+LOLTMNT04_149245,oe:team:78f183fa5a7d8ecb22b9ad272c3abd7,Fnatic,Blue,1,Akali,Yone,Vi,Neeko,Kai'Sa,Rumble,Yunara,Azir,Xin Zhao,Alistar
+LOLTMNT04_149245,oe:team:6cd05f0ac20bfb965a59dc8bcc4f184,GiantX,Red,0,Jayce,Varus,Jarvan IV,Wukong,Qiyana,Orianna,Nocturne,K'Sante,Aphelios,Lulu
+LOLTMNT04_149251,oe:team:7d6673d3a9d00363c6bebc1a630da6e,G2 Esports,Blue,0,Varus,Azir,Orianna,Wukong,Qiyana,Corki,Xin Zhao,Galio,Lee Sin,Rakan
+LOLTMNT04_149251,oe:team:f3aa9bbd924ce3af42ac53f8326bc7c,Karmine Corp,Red,1,Jayce,Pantheon,Jarvan IV,Anivia,Nami,Yunara,Rumble,Ryze,Alistar,Aatrox
+LOLTMNT01_326052,oe:team:2e66da41dc460dd378e3bcc57042d31,FlyQuest,Blue,0,Poppy,Jayce,Jarvan IV,Nautilus,Sion,Wukong,Orianna,Jhin,Karma,K'Sante
+LOLTMNT01_326052,oe:team:b360f1d729b0a8e0f29a5243c4200fa,Shopify Rebellion,Red,1,Cassiopeia,Ambessa,Rumble,Gwen,Rakan,Varus,Malphite,Azir,Renekton,Bard
+LOLTMNT01_326059,oe:team:2e66da41dc460dd378e3bcc57042d31,FlyQuest,Blue,1,Poppy,Jarvan IV,Gangplank,Nami,Gwen,Taliyah,Aphelios,Thresh,Sion,Volibear
+LOLTMNT01_326059,oe:team:b360f1d729b0a8e0f29a5243c4200fa,Shopify Rebellion,Red,0,Ambessa,Rumble,Jayce,Vi,Pantheon,Ryze,Corki,Xin Zhao,Neeko,Gnar
+LOLTMNT01_324980,oe:team:da1143bf9a245b78a8dc86417de85b3,LYON,Blue,0,Neeko,Jayce,Jhin,Ezreal,Poppy,Rumble,Jarvan IV,Akali,Yunara,Bard
+LOLTMNT01_324980,oe:team:0dbb780176ecad18f17292d1f5653af,Dignitas,Red,1,Varus,Azir,Malphite,Lulu,Corki,Orianna,Wukong,K'Sante,Kai'Sa,Alistar
+LOLTMNT01_324984,oe:team:da1143bf9a245b78a8dc86417de85b3,LYON,Blue,1,Malphite,Azir,Ziggs,Gwen,Gnar,Ryze,Aphelios,Lulu,Pantheon,Renekton
+LOLTMNT01_324984,oe:team:0dbb780176ecad18f17292d1f5653af,Dignitas,Red,0,Jayce,Neeko,Varus,Trundle,Xin Zhao,Taliyah,Vi,Nautilus,Jinx,Kennen
+13088-13088_game_1,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Blue,0,Jayce,Akali,Rumble,Sivir,Jhin,Orianna,Varus,Xin Zhao,Renekton,Alistar
+13088-13088_game_1,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Red,1,Malphite,Ambessa,K'Sante,Gwen,Rek'Sai,Jarvan IV,Azir,Sion,Ezreal,Leona
+13088-13088_game_2,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Blue,0,Jayce,Lulu,Dr. Mundo,Corki,Aphelios,Yunara,Rumble,Wukong,Syndra,Braum
+13088-13088_game_2,oe:team:62c1cd9465dc63824593ee5046f5aa8,Team WE,Red,1,Malphite,Ambessa,Miss Fortune,Ahri,Aurora,Ryze,K'Sante,Viego,Kai'Sa,Rell
+13089-13089_game_1,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,0,Jayce,Malphite,Orianna,Bard,Yunara,Rumble,Varus,Alistar,Xin Zhao,Ziggs
+13089-13089_game_1,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Red,1,Neeko,Sylas,Jarvan IV,Vi,Yone,Azir,Pantheon,K'Sante,Corki,Rakan
+13089-13089_game_2,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,0,Orianna,Jayce,Aphelios,Sion,Renekton,Yunara,Neeko,Dr. Mundo,Ambessa,Galio
+13089-13089_game_2,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Red,1,Jarvan IV,Sylas,Ryze,Akali,Zaahen,Malphite,Ashe,Seraphine,Gnar,Aurora
+13089-13089_game_3,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,0,Jayce,Orianna,Ryze,Lulu,Nautilus,Aphelios,Vi,Thresh,Rek'Sai,Ahri
+13089-13089_game_3,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Red,1,Poppy,Akali,Wukong,Zaahen,Gwen,Jarvan IV,Sion,Sivir,Viktor,Bard
+LOLTMNT04_150288,oe:team:75760dca486d4682426196b76bd1a54,SK Gaming,Blue,1,Malphite,Akali,Orianna,Aurora,Neeko,Varus,Rumble,Yone,Pantheon,Alistar
+LOLTMNT04_150288,oe:team:42bf6c1040db8f2221ff017fa4d34e4,Karmine Corp Blue,Red,0,Jayce,Irelia,Ryze,Vi,Sejuani,Yunara,Jarvan IV,Aatrox,Azir,Rakan
+LOLTMNT04_149293,oe:team:a2065488a11a2c0a2403a7b347eec61,Shifters,Blue,0,Sion,Dr. Mundo,Orianna,Karma,Bard,Taliyah,Vi,Neeko,Lucian,Nidalee
+LOLTMNT04_149293,oe:team:2d096df29ab7e32950c86e0d72fc986,Los Ratones,Red,1,Rumble,Varus,Cassiopeia,Ambessa,Gnar,Ryze,Pantheon,Caitlyn,Nami,Gragas
+LOLTMNT04_149305,oe:team:e8d8ae992fe72acb7adc7bfcee31dbb,Team Vitality,Blue,0,Vi,Varus,Azir,Neeko,Rakan,Yunara,Jarvan IV,Ryze,Alistar,Gwen
+LOLTMNT04_149305,oe:team:78f183fa5a7d8ecb22b9ad272c3abd7,Fnatic,Red,1,Pantheon,Rumble,Taliyah,Lulu,Gnar,Orianna,Wukong,Kai'Sa,Nautilus,K'Sante
+LOLTMNT04_149323,oe:team:7d6673d3a9d00363c6bebc1a630da6e,G2 Esports,Blue,1,Aphelios,Taliyah,Rumble,Ambessa,Gnar,Varus,Aatrox,Orianna,Neeko,K'Sante
+LOLTMNT04_149323,oe:team:1285e1c04d54de96502f12da4d49458,Team Heretics,Red,0,Yunara,Jayce,Jarvan IV,Bard,Rakan,Azir,Dr. Mundo,Jhin,Alistar,Gwen
+LOLTMNT04_150332,oe:team:d2ba9f92d85cff67d60aaad88e61048,Natus Vincere,Blue,0,Varus,Jayce,Rumble,Jarvan IV,Braum,Aphelios,Aatrox,Taliyah,Nautilus,Poppy
+LOLTMNT04_150332,oe:team:f3aa9bbd924ce3af42ac53f8326bc7c,Karmine Corp,Red,1,K'Sante,Sion,Akali,Renekton,Alistar,Yunara,Ambessa,Azir,Leona,Pantheon
+LOLTMNT04_150342,oe:team:4acc40654379b4da680be1bd3129dfa,Movistar KOI,Blue,1,Neeko,Orianna,Jarvan IV,Gnar,Aurora,Yunara,Azir,Renekton,Trundle,Lulu
+LOLTMNT04_150342,oe:team:6cd05f0ac20bfb965a59dc8bcc4f184,GiantX,Red,0,Jayce,Rumble,Varus,Pantheon,Alistar,Vi,Caitlyn,Taliyah,K'Sante,Elise
+13090-13090_game_1,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,1,Ryze,Ambessa,Varus,Akali,Xin Zhao,Rumble,Jarvan IV,Azir,Jhin,Bard
+13090-13090_game_1,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Red,0,Jayce,Orianna,Neeko,Karma,Nautilus,K'Sante,Ashe,Seraphine,Ekko,Vi
+13090-13090_game_2,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,0,Jayce,Varus,Yunara,Alistar,Miss Fortune,Xin Zhao,Akali,Gwen,Corki,Rakan
+13090-13090_game_2,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Red,1,Poppy,Neeko,Aphelios,Sivir,Braum,Orianna,Wukong,Sion,Kai'Sa,Rell
+13091-13091_game_1,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Blue,0,Jayce,Neeko,Jarvan IV,Aphelios,Miss Fortune,Azir,Pantheon,Ambessa,Corki,Bard
+13091-13091_game_1,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,1,Poppy,Malphite,Varus,Yunara,Kai'Sa,Orianna,Rumble,Vi,Sivir,Alistar
+13091-13091_game_2,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Blue,1,Malphite,Poppy,Trundle,Aurora,Akali,Jarvan IV,Aphelios,Thresh,Sion,Viktor
+13091-13091_game_2,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,0,Jayce,Neeko,Varus,Ryze,Jax,Yunara,Xin Zhao,Lulu,Syndra,Aatrox
+13091-13091_game_3,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Blue,0,Jayce,Neeko,Varus,Lucian,Ezreal,Miss Fortune,Wukong,Rell,Gnar,Sylas
+13091-13091_game_3,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,1,Poppy,Malphite,Aurora,K'Sante,Cassiopeia,Ryze,Qiyana,Renekton,Nautilus,Ashe
+13092-13092_game_1,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Blue,0,Jayce,Orianna,Varus,Malphite,Pantheon,Ashe,Seraphine,Rumble,Syndra,Wukong
+13092-13092_game_1,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Red,1,Jarvan IV,Yunara,LeBlanc,Yone,Taliyah,Neeko,Corki,Azir,Xin Zhao,Sion
+13092-13092_game_2,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,0,Varus,Orianna,Yunara,Sivir,Kai'Sa,Ryze,Miss Fortune,Qiyana,Leona,Aurora
+13092-13092_game_2,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,1,Malphite,Bard,Jarvan IV,Rek'Sai,Rakan,Jayce,Alistar,Anivia,Ezreal,Renekton
+13092-13092_game_3,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Blue,0,Orianna,Jarvan IV,Bard,Rek'Sai,Gwen,Ambessa,Sivir,Nautilus,K'Sante,Swain
+13092-13092_game_3,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Red,1,Malphite,Poppy,Vi,Ahri,Nocturne,Varus,Pantheon,Rakan,Galio,Zaahen
+13093-13093_game_1,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Blue,0,Jayce,Orianna,Ambessa,Alistar,Poppy,Rumble,Sivir,Akali,Rell,Trundle
+13093-13093_game_1,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,1,Neeko,Jarvan IV,Vi,Karma,Nautilus,Varus,K'Sante,Azir,Braum,Xin Zhao
+13093-13093_game_2,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Blue,1,Poppy,Neeko,Anivia,Sylas,Udyr,Jarvan IV,Corki,Alistar,Jax,Taliyah
+13093-13093_game_2,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,0,Jayce,Orianna,Ryze,Renekton,Gwen,Draven,Nautilus,Wukong,Ambessa,Ahri
+LOLTMNT01_326821,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Blue,0,Rumble,Jayce,Orianna,Varus,Corki,Taliyah,Yunara,Gnar,Xin Zhao,Bard
+LOLTMNT01_326821,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Red,1,Malphite,Vi,Azir,Lulu,Neeko,Ryze,Pantheon,Renekton,Ezreal,Braum
+13093-13093_game_3,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Blue,1,Anivia,Karma,Poppy,Aurora,Udyr,Ryze,Yunara,Neeko,Viego,Sion
+13093-13093_game_3,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,0,Jayce,Orianna,Vi,Malphite,Pantheon,Ashe,Nocturne,Seraphine,Syndra,Gwen
+LOLTMNT01_326837,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Blue,1,Malphite,Varus,Corki,Aphelios,Elise,Orianna,Ambessa,Neeko,Kai'Sa,Vi
+LOLTMNT01_326837,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Red,0,Jayce,Rumble,Nocturne,Aurora,Kennen,Jarvan IV,Azir,Gwen,Sivir,Karma
+LOLTMNT01_327784,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Blue,1,Malphite,Akali,Corki,Ziggs,Lucian,Aurora,Aphelios,Thresh,Sylas,Trundle
+LOLTMNT01_327784,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Red,0,Jayce,Varus,Rumble,Kennen,Jax,Wukong,Ahri,Zaahen,Alistar,Zeri
+13094-13094_game_1,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,0,Jayce,Rumble,Akali,Gwen,Ambessa,Azir,Xin Zhao,Sion,Corki,Poppy
+13094-13094_game_1,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Red,1,Jarvan IV,Neeko,Orianna,Yunara,Miss Fortune,Varus,Wukong,Taliyah,Rell,Zaahen
+LOLTMNT01_327799,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Blue,0,Rumble,Corki,Jayce,Galio,Twisted Fate,Akali,Sejuani,Yorick,Kalista,Renata Glasc
+LOLTMNT01_327799,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Red,1,Poppy,Varus,Zoe,Lucian,Lulu,Malphite,Xayah,Rakan,Jax,Viktor
+13094-13094_game_2,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,1,Ambessa,Rumble,Qiyana,Vi,Nocturne,Ryze,Ezreal,Karma,Gnar,Trundle
+13094-13094_game_2,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Red,0,Jayce,Orianna,Jarvan IV,Malphite,Renekton,Yunara,Anivia,Lulu,Pantheon,Yorick
+LOLTMNT01_326904,oe:team:101f8589e58c724c1dcd5a9c1555277,DRX,Blue,0,Rumble,Jayce,Varus,Miss Fortune,Caitlyn,Syndra,Nautilus,Jhin,Aatrox,K'Sante
+LOLTMNT01_326904,oe:team:b77b3f6068e20a2b3edc0ecd3dc70d4,HANJIN BRION,Red,1,Lucian,LeBlanc,Corki,Kennen,Lee Sin,Zoe,Rell,Nocturne,Tristana,Sion
+13095-13095_game_1,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Blue,0,Orianna,Jayce,Rumble,Gwen,Ambessa,Jarvan IV,Azir,Sion,Jhin,Rell
+13095-13095_game_1,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,1,Xin Zhao,Malphite,Neeko,Bard,Lulu,Varus,Vi,Ahri,Yunara,Rakan
+13095-13095_game_2,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Blue,1,Malphite,Renekton,Poppy,Miss Fortune,Corki,Orianna,Neeko,Kai'Sa,Wukong,Ornn
+13095-13095_game_2,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,0,Jayce,Xin Zhao,Aphelios,Nocturne,Ambessa,Rumble,Pantheon,Akali,Leona,Tristana
+13095-13095_game_3,oe:team:056c3140a119e44a03d462e2c832f27,EDward Gaming,Blue,0,Jayce,Malphite,Miss Fortune,Seraphine,Renata Glasc,Alistar,Nocturne,Malzahar,K'Sante,Jinx
+13095-13095_game_3,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,1,Aphelios,Xin Zhao,Karma,Sivir,Gnar,Renekton,Viego,Ryze,Corki,Nami
+LOLTMNT01_331103,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Blue,1,Neeko,Varus,K'Sante,Gnar,Nautilus,Azir,Renekton,Vi,Lucian,Nami
+LOLTMNT01_331103,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Red,0,Rumble,Jayce,Pantheon,Bard,Ezreal,Orianna,Jarvan IV,Yunara,Lulu,Sion
+LOLTMNT01_332133,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Blue,0,Rumble,Jayce,K'Sante,Nautilus,Alistar,Ryze,Xin Zhao,Bard,Corki,Kennen
+LOLTMNT01_332133,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Red,1,Neeko,Pantheon,Varus,Ezreal,Gwen,Ambessa,Wukong,Taliyah,Sivir,Rakan
+13096-13096_game_1,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Blue,0,Jayce,Neeko,Jarvan IV,Rumble,Alistar,Azir,Xin Zhao,Miss Fortune,Rakan,Yasuo
+13096-13096_game_1,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Red,1,Orianna,Ambessa,Malphite,Jax,Nautilus,Varus,Sejuani,Yone,Jhin,Bard
+LOLTMNT01_332152,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Blue,0,Rumble,Jayce,Varus,Sylas,Zoe,Aurora,Ezreal,Gnar,Rell,Aatrox
+LOLTMNT01_332152,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Red,1,Pantheon,Nocturne,Karma,Alistar,Leona,Neeko,K'Sante,Kai'Sa,Syndra,Lee Sin
+13096-13096_game_2,oe:team:48d7941ccbd5b89aca46c57b0c2f8fb,Ninjas in Pyjamas,Blue,0,Orianna,Jayce,Rumble,Nautilus,Ziggs,Renekton,Thresh,Aphelios,Aurora,Qiyana
+13096-13096_game_2,oe:team:df80f468a3f9a722df056fe9104f052,ThunderTalk Gaming,Red,1,Neeko,Yunara,Vi,Pantheon,Wukong,Jarvan IV,Gnar,Ryze,Ashe,Seraphine
+LOLTMNT01_332170,oe:team:b3c72a20aa56f5d28022ac04a7dc294,DN SOOPers,Blue,0,Rumble,Varus,Akali,LeBlanc,Gwen,Ziggs,Pantheon,Yone,Sejuani,Rek'Sai
+LOLTMNT01_332170,oe:team:5c2e7e9ea8dfcba0150d9a5619baecf,BNK FEARX,Red,1,Nocturne,Sylas,Malphite,Alistar,Zaahen,Jayce,Jhin,Leona,Jax,Lillia
+13097-13097_game_1,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Blue,0,Varus,Malphite,Neeko,Poppy,Yunara,Jarvan IV,Azir,Ambessa,Miss Fortune,Leona
+13097-13097_game_1,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Red,1,Sylas,Rumble,Orianna,Braum,Rakan,Jayce,Sion,Ziggs,Corki,Nautilus
+13097-13097_game_2,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Blue,0,Malphite,Varus,Neeko,Gnar,K'Sante,Syndra,Pantheon,Renekton,Lulu,Sivir
+13097-13097_game_2,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Red,1,Sylas,Ryze,Rumble,Kai'Sa,Ashe,Orianna,Nocturne,Yunara,Ornn,Bard
+13097-13097_game_3,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,0,Varus,Malphite,Neeko,Renata Glasc,Jhin,Vi,K'Sante,Anivia,Lucian,Nami
+13097-13097_game_3,oe:team:606c6ac695907af3823ee6405c58ff1,Weibo Gaming,Red,1,Sylas,Dr. Mundo,Karma,Aphelios,Ashe,Rumble,Poppy,Cassiopeia,Caitlyn,Elise
+LOLTMNT01_331607,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Blue,0,Rumble,Orianna,Jayce,Renekton,Gwen,Taliyah,Vi,Ambessa,Corki,Nautilus
+LOLTMNT01_331607,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Red,1,Malphite,Azir,Varus,Aphelios,Braum,Yunara,Pantheon,Ryze,Neeko,Aatrox
+LOLTMNT01_332667,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Blue,0,Jayce,Rumble,Varus,Braum,Ziggs,Xin Zhao,Orianna,Gnar,Kalista,Renata Glasc
+LOLTMNT01_332667,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Red,1,Malphite,Nocturne,Jarvan IV,Aphelios,Rakan,Azir,Wukong,Renekton,Ezreal,Karma
+13098-13098_game_1,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Blue,0,Jayce,Orianna,Varus,Aphelios,Ashe,K'Sante,Yunara,Trundle,Aurora,Nautilus
+13098-13098_game_1,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Red,1,Akali,Neeko,Jarvan IV,Lulu,Braum,Rumble,Xin Zhao,Ryze,Corki,Bard
+LOLTMNT01_331640,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Blue,1,Aurora,Jarvan IV,Sylas,Zoe,Jax,Malphite,Jinx,Lulu,Yone,K'Sante
+LOLTMNT01_331640,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Red,0,Rumble,Jayce,Varus,Akali,Kennen,Aphelios,Dr. Mundo,Blitzcrank,Zaahen,Ahri
+13098-13098_game_2,oe:team:8d09428f093dfbf3c488bce350af0b1,Ultra Prime,Blue,1,Neeko,Poppy,Akali,Ahri,Zaahen,Jarvan IV,Lucian,Nami,Taliyah,Gnar
+13098-13098_game_2,oe:team:f4c4528c6981e104a11ea7548630c23,Oh My God,Red,0,Jayce,Varus,Orianna,Jax,Renekton,Ashe,Vi,Seraphine,Ambessa,Sylas
+LOLTMNT01_331650,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Blue,0,Rumble,Jayce,Varus,Bard,Elise,Lucian,Akali,Braum,Jax,Rek'Sai
+LOLTMNT01_331650,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Red,1,Nocturne,Aurora,Leona,Trundle,Gwen,Jarvan IV,Caitlyn,Galio,Tahm Kench,Gragas
+13099-13099_game_1,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Blue,0,Jayce,Neeko,Varus,Corki,Ezreal,Azir,Jarvan IV,Sion,Lucian,Nami
+13099-13099_game_1,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Red,1,Malphite,Yunara,Poppy,Miss Fortune,Alistar,Orianna,Rumble,Xin Zhao,Kalista,Renata Glasc
+LOLTMNT01_332727,oe:team:d723992568441c6bafa2658129eade7,KT Rolster,Blue,0,Rumble,Jayce,Varus,Leona,Rell,Nocturne,Sion,Rakan,Miss Fortune,Syndra
+LOLTMNT01_332727,oe:team:5cd2cd09ec94296f605dd13a2924d6c,Nongshim RedForce,Red,1,Alistar,Gwen,Zoe,Xayah,Zeri,Aurora,Kai'Sa,Trundle,Shen,Olaf
+13099-13099_game_2,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,1,Yunara,Malphite,Ambessa,Akali,Sylas,Ryze,Qiyana,Renekton,Jhin,Alistar
+13099-13099_game_2,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,0,Jayce,Neeko,Varus,Ashe,Ezreal,Miss Fortune,Vi,Gnar,Taliyah,Poppy
+13099-13099_game_3,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,1,Malphite,Yunara,Bard,Rell,Lulu,Varus,Nocturne,Rakan,K'Sante,Viktor
+13099-13099_game_3,oe:team:fcec508e780bbd1ad493852640f5b36,Top Esports,Red,0,Jayce,Neeko,Ambessa,Galio,Aurora,Sivir,Pantheon,Akali,Wukong,Aatrox
+LOLTMNT01_334295,oe:team:ef69efa6acebe94107f0cf1ba716806,Dplus Kia,Blue,0,Jayce,Bard,Nocturne,Sivir,Kai'Sa,Rumble,Orianna,Xin Zhao,Ezreal,Karma
+LOLTMNT01_334295,oe:team:ce499dea30cfce118f4fe85da0227e8,T1,Red,1,Malphite,Varus,Vi,Yunara,Nami,Azir,Ambessa,Jarvan IV,Neeko,Jhin
+13100-13100_game_1,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,0,Neeko,Rumble,Malphite,Sivir,Yunara,Varus,Azir,Rek'Sai,Pantheon,Bard
+13100-13100_game_1,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Red,1,Jarvan IV,Sylas,Jayce,Xin Zhao,Alistar,Orianna,Nocturne,Sion,Miss Fortune,Leona
+13100-13100_game_2,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Blue,0,Neeko,Rumble,Aphelios,Sivir,Kai'Sa,Malphite,Corki,Gnar,Anivia,Rakan
+13100-13100_game_2,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Red,1,Sylas,Jarvan IV,Yunara,Cassiopeia,Nami,Jayce,Ryze,Renekton,Ziggs,Alistar
+13100-13100_game_3,oe:team:b42d0f31f2727621b963042276817c4,JD Gaming,Blue,0,Jarvan IV,Yunara,Rumble,Poppy,Cassiopeia,Xin Zhao,Lulu,Jax,Kai'Sa,Swain
+13100-13100_game_3,oe:team:ed28f87f0cfdba0a2a8f183cebae73a,Anyone's Legend,Red,1,Viktor,Aphelios,Vi,Zeri,Aurora,Neeko,Ambessa,Sivir,Galio,Naafiri
+13101-13101_game_1,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Blue,0,Jayce,Orianna,Jarvan IV,Ashe,Karma,Neeko,Pantheon,Ambessa,Galio,Kai'Sa
+13101-13101_game_1,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Red,1,Malphite,Varus,Yunara,Syndra,Anivia,Xin Zhao,Rumble,Ryze,Sivir,Lulu
+13101-13101_game_2,oe:team:d356a144644879dabb5f34cd99c886d,Bilibili Gaming,Blue,0,Jayce,Orianna,Varus,Syndra,Wukong,Yunara,Zaahen,Bard,Vi,Azir
+13101-13101_game_2,oe:team:53a258f289c26d94431c0496a54e151,Invictus Gaming,Red,1,Malphite,Gwen,Jarvan IV,Akali,Nocturne,Sion,Aphelios,Thresh,Viktor,Poppy
+LOLTMNT04_152292,oe:team:1285e1c04d54de96502f12da4d49458,Team Heretics,Blue,0,Varus,Ryze,Yunara,Corki,Miss Fortune,K'Sante,Aatrox,Orianna,Jhin,Karma
+LOLTMNT04_152292,oe:team:75760dca486d4682426196b76bd1a54,SK Gaming,Red,1,Dr. Mundo,Jarvan IV,Jayce,Aphelios,Caitlyn,Rumble,Pantheon,Azir,Xayah,Rakan
+LOLTMNT04_152324,oe:team:6cd05f0ac20bfb965a59dc8bcc4f184,GiantX,Blue,1,K'Sante,Azir,Jayce,Yunara,Aphelios,Orianna,Xin Zhao,Sion,Ezreal,Bard
+LOLTMNT04_152324,oe:team:d2ba9f92d85cff67d60aaad88e61048,Natus Vincere,Red,0,Varus,Jarvan IV,Akali,Caitlyn,Neeko,Rumble,Wukong,Ryze,Corki,Pyke
+LOLTMNT04_151290,oe:team:78f183fa5a7d8ecb22b9ad272c3abd7,Fnatic,Blue,1,Neeko,Rumble,Vi,Bard,Gnar,Varus,Pantheon,Taliyah,Rakan,K'Sante
+LOLTMNT04_151290,oe:team:a2065488a11a2c0a2403a7b347eec61,Shifters,Red,0,Jayce,Jarvan IV,Orianna,Alistar,Nautilus,Jhin,Azir,Skarner,Rell,Rek'Sai
+LOLTMNT04_151303,oe:team:7d6673d3a9d00363c6bebc1a630da6e,G2 Esports,Blue,1,Yunara,Rumble,Aatrox,Ambessa,Neeko,Azir,Xin Zhao,Sion,Aphelios,Alistar
+LOLTMNT04_151303,oe:team:42bf6c1040db8f2221ff017fa4d34e4,Karmine Corp Blue,Red,0,Jayce,Varus,Poppy,Caitlyn,Ezreal,Pantheon,Taliyah,Corki,K'Sante,Nautilus
+LOLTMNT04_152357,oe:team:e8d8ae992fe72acb7adc7bfcee31dbb,Team Vitality,Blue,1,Jarvan IV,Azir,Yunara,Bard,Nautilus,Ryze,K'Sante,Jayce,Ezreal,Karma
+LOLTMNT04_152357,oe:team:f3aa9bbd924ce3af42ac53f8326bc7c,Karmine Corp,Red,0,Orianna,Varus,Xayah,Kai'Sa,Rakan,Rumble,Pantheon,Cassiopeia,Alistar,Sivir
+LOLTMNT04_152368,oe:team:2d096df29ab7e32950c86e0d72fc986,Los Ratones,Blue,0,Rumble,Varus,Ambessa,Jhin,Yunara,Orianna,Caitlyn,Poppy,Dr. Mundo,Nami
+LOLTMNT04_152368,oe:team:4acc40654379b4da680be1bd3129dfa,Movistar KOI,Red,1,Sion,Ryze,Jayce,Bard,Jax,Azir,Jarvan IV,K'Sante,Ezreal,Karma
+LOLTMNT01_334729,oe:team:da1143bf9a245b78a8dc86417de85b3,LYON,Blue,0,Ziggs,Jayce,Rumble,Gnar,Gwen,Orianna,Nocturne,Renekton,Ezreal,Karma
+LOLTMNT01_334729,oe:team:fc8e90107dabb9a35c490b0d86adea0,Cloud9,Red,1,Malphite,Akali,Varus,Yunara,Lucian,Azir,Jarvan IV,Corki,Aurora,Nami
+LOLTMNT01_333860,oe:team:fc8e90107dabb9a35c490b0d86adea0,Cloud9,Blue,1,Malphite,Lulu,Neeko,Yunara,Nautilus,Pantheon,K'Sante,Taliyah,Lucian,Braum
+LOLTMNT01_333860,oe:team:da1143bf9a245b78a8dc86417de85b3,LYON,Red,0,Ziggs,Jayce,Varus,Bard,Xayah,Rumble,Vi,Ahri,Aphelios,Renata Glasc
+LOLTMNT01_334794,oe:team:0dbb780176ecad18f17292d1f5653af,Dignitas,Blue,0,Jayce,Rumble,Jarvan IV,Neeko,Bard,Azir,Wukong,Gwen,Yunara,Alistar
+LOLTMNT01_334794,oe:team:f90422f1cbcb24bc2a855202582ec29,Sentinels,Red,1,Taliyah,Akali,Varus,Nami,Ezreal,Orianna,Nocturne,Renekton,Kai'Sa,Rakan
+LOLTMNT01_334841,oe:team:f90422f1cbcb24bc2a855202582ec29,Sentinels,Blue,0,Rumble,Ambessa,Jayce,Zaahen,Olaf,Taliyah,Pantheon,Sion,Ezreal,Poppy
+LOLTMNT01_334841,oe:team:0dbb780176ecad18f17292d1f5653af,Dignitas,Red,1,Malphite,Neeko,Jarvan IV,Sivir,Bard,Varus,Vi,Ryze,K'Sante,Rell
+LOLTMNT01_336016,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Blue,0,Jayce,Varus,Rumble,Nami,Bard,Neeko,Vi,Yunara,Aurora,Yone
+LOLTMNT01_336016,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Red,1,Ambessa,Orianna,Malphite,Taliyah,Akali,Azir,Corki,Xin Zhao,Rakan,K'Sante
+LOLTMNT01_336021,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Blue,0,Rumble,Varus,Jayce,Sivir,Kalista,Aatrox,Galio,Gnar,Jhin,Bard
+LOLTMNT01_336021,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Red,1,Ambessa,Sion,Ryze,Ezreal,Lucian,Orianna,Renekton,Jarvan IV,Miss Fortune,Rell
+13102-13102_game_1,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,1,Neeko,Varus,Ambessa,Lulu,Miss Fortune,Jarvan IV,Azir,Gnar,Kalista,Renata Glasc
+13102-13102_game_1,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,0,Jayce,Orianna,Rumble,Karma,Nautilus,Xin Zhao,Ryze,Jax,Nami,Corki
+13102-13102_game_2,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,1,Neeko,Ambessa,Vi,Aurora,Ahri,Varus,K'Sante,Pantheon,Galio,Rakan
+13102-13102_game_2,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,0,Jayce,Orianna,Wukong,Lulu,Bard,Rumble,Nocturne,Sivir,Alistar,Yone
+LOLTMNT01_335069,oe:team:50f58982d91a36557ec8aec52ab014f,Gen.G,Blue,1,Malphite,Ambessa,Poppy,Ashe,Kalista,Pantheon,Ornn,Cassiopeia,Aphelios,Thresh
+LOLTMNT01_335069,oe:team:3a1d18f46bcb3716ebcfcf4ef068934,Hanwha Life Esports,Red,0,Varus,Jayce,Wukong,Ezreal,Lulu,Rumble,Ryze,Trundle,Alistar,Sivir
+13102-13102_game_3,oe:team:a9145b7711873f53e610fbba0493484,LNG Esports,Blue,0,Jayce,Ambessa,Orianna,Poppy,Wukong,Yunara,Vi,Braum,Rek'Sai,Hwei
+13102-13102_game_3,oe:team:5f401785b6b78326f9a46b3c6b206ed,LGD Gaming,Red,1,Renekton,Gwen,Ziggs,Akali,Sylas,Sion,Draven,Nautilus,Viktor,Dr. Mundo
